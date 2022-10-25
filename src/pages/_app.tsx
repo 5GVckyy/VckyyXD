@@ -16,7 +16,7 @@ import MetaTags from "@/components/MetaTags";
 
 const metaData = {
     title: "Rafly Maulana - Fullstack Developer",
-    description: "Hello! I’m Rafly, a fullstack developer, designer, and producer, from Indonesia.",
+    description: "Hello! I’m vcky, a fullstack developer, designer, and producer, from Indonesia.",
     url: "https://raflymaulana.me",
     image: "https://raflymaulana.me/images/banner.png",
     themeColor: "#ffffff",
