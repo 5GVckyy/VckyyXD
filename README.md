@@ -9,7 +9,7 @@ A fullstack developer, designer, and producer, from Indonesia.
 
 
 ### Socials
-- LinkedIn: [soon](http://linkedin.com/in/)
+- Linkedin: [soon](http://linkedin.com/in/)
 - Twitter: [soon](http://twitter.com/)
 - Instagram: [@141gs__](http://instagram.com/141gs__)
 
